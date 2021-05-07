@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import QueenAnimations from './Components/QueenAnimations';
 import './App.css';
 

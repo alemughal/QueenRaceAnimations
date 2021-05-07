@@ -7,7 +7,7 @@ function QueenAnimations() {
             <div className="sky"></div>
             <div className="earth">
                 <div id="red-queen_and_alice">
-                    <img src={RunningQueen} alt="RunningQueen"/>
+                    <img id="red-queen_and_alice_sprite" src={RunningQueen} alt="RunningQueen"/>
                 </div>
             </div>
 
@@ -17,7 +17,7 @@ function QueenAnimations() {
 
             <div className="scenery" id="foreground2">
                 <img id="bush" src={BushSmall} alt="Bush"/>
-                <img src={RookUprightSmall} alt="RookUpright"/>
+                <img id="w_rook_upright" src={RookUprightSmall} alt="RookUpright"/>
             </div>
 
             <div className="scenery" id="background1">
